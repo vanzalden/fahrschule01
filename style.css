@@ -1,0 +1,115 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #B00000;
+}
+
+.navbar {
+  background-color: #FFFFFF;
+  border: 0;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+color: black;
+}
+
+.navbar-inverse .navbar-brand {
+color: black;
+}
+
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
+margin-left: -347px;
+}
+
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
+    color: #FFFFFF;
+    background-color: #B00000;
+}
+
+.start-section{
+  height: auto !important;
+  min-height: 100%;
+  margin: 0px 50px 0px 50px;
+  overflow: hidden;
+  padding-top: 80px;
+ 
+}
+
+.angebot-section{
+  height:auto !important;
+  min-height: 100%;
+  margin: 0px 50px 0px 50px;
+  overflow: hidden;
+  padding-top: 80px;
+}
+
+.filialen-section{
+  height:auto !important;
+  min-height: 100%;
+  margin: 0px 50px 0px 50px;
+  overflow: hidden;
+  padding-top: 80px;
+}
+
+.mitarbeiter-section{
+  height:auto !important;
+  min-height: 100%;
+  margin: 0px 50px 0px 50px;
+  overflow: hidden;
+  padding-top: 80px;
+}
+
+.fahrzeuge-section{
+  height:auto !important;
+  min-height: 100%;
+  margin: 0px 50px 0px 50px;
+  overflow: hidden;
+  padding-top: 80px;
+}
+
+
+
+.kontakt-section{
+  height:auto !important;
+  min-height: 100%;
+  margin: 0px 50px 0px 50px;
+  overflow: hidden;
+  padding-top: 80px;
+}
+
+.impressum-section{
+  height:auto !important;
+  min-height: 100%;
+  margin: 0px 50px 0px 50px;
+  overflow: hidden;
+  padding-top: 80px;
+}
+
+.well{
+  background-color: #FFFFFF;
+  border-radius: 0px;
+  border-style: none;
+}
+
+h1{
+  text-align: center;
+}
+
+h4{
+  text-align: center;
+}
+
+p{
+  text-align: center;
+  color: gray;
+}
+
+
+
+
+
+
+
+
+
+
